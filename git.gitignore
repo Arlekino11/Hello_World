@@ -1,0 +1,9 @@
+main
+
+vendor/
+
+.DS_Store
+.idea/
+*.swp
+*.swo
+/go/
